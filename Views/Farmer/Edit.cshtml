@@ -1,0 +1,121 @@
+﻿@* @model Farmer *@
+
+@* <h1>Edit Farmer</h1> *@
+
+@* <form asp-action="Edit"> *@
+@*     <div asp-validation-summary="ModelOnly" class="text-danger"></div> *@
+@*     <input type="hidden" asp-for="FarmerID" /> *@
+
+@*     <div class="form-group mb-3"> *@
+@*         <label asp-for="FullName" class="control-label"></label> *@
+@*         <input asp-for="FullName" class="form-control" /> *@
+@*         <span asp-validation-for="FullName" class="text-danger"></span> *@
+@*     </div> *@
+
+@*     <div class="form-group mb-3"> *@
+@*         <label asp-for="Address" class="control-label"></label> *@
+@*         <input asp-for="Address" class="form-control" /> *@
+@*         <span asp-validation-for="Address" class="text-danger"></span> *@
+@*     </div> *@
+
+@*     <div class="form-group mb-3"> *@
+@*         <label asp-for="ContactNo" class="control-label"></label> *@
+@*         <input asp-for="ContactNo" class="form-control" /> *@
+@*         <span asp-validation-for="ContactNo" class="text-danger"></span> *@
+@*     </div> *@
+
+@*     <div class="form-group mb-3"> *@
+@*         <label asp-for="AdharCardNo" class="control-label"></label> *@
+@*         <input asp-for="AdharCardNo" class="form-control" /> *@
+@*         <span asp-validation-for="AdharCardNo" class="text-danger"></span> *@
+@*     </div> *@
+
+@*     <div class="form-group mb-3"> *@
+@*         <label asp-for="EmailAddress" class="control-label"></label> *@
+@*         <input asp-for="EmailAddress" class="form-control" type="email" /> *@
+@*         <span asp-validation-for="EmailAddress" class="text-danger"></span> *@
+@*     </div> *@
+
+@*     <div class="form-group mb-3"> *@
+@*         <label asp-for="Password" class="control-label"></label> *@
+@*         <input asp-for="Password" class="form-control" type="password" /> *@
+@*         <span asp-validation-for="Password" class="text-danger"></span> *@
+@*     </div> *@
+
+@*     <div class="form-group mb-3"> *@
+@*         <input type="submit" value="Save" class="btn btn-primary" /> *@
+@*         <a asp-action="Index" class="btn btn-secondary">Back to List</a> *@
+@*     </div> *@
+@* </form> *@
+
+@* @section Scripts { *@
+@*     @{ *@
+@*         await Html.RenderPartialAsync("_ValidationScriptsPartial"); *@
+@*     } *@
+@* } *@
+
+
+
+@model Farmer
+
+<div class="container mt-5">
+    <h1 class="text-center text-primary mb-4">Edit Farmer</h1>
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="bg-light p-4 shadow rounded">
+                <form asp-action="Edit">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="FarmerID" />
+
+                    <div class="form-group mb-3">
+                        <label asp-for="FullName" class="control-label fw-bold"></label>
+                        <input asp-for="FullName" class="form-control" />
+                        <span asp-validation-for="FullName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Address" class="control-label fw-bold"></label>
+                        <input asp-for="Address" class="form-control" />
+                        <span asp-validation-for="Address" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="ContactNo" class="control-label fw-bold"></label>
+                        <input asp-for="ContactNo" class="form-control" />
+                        <span asp-validation-for="ContactNo" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="AdharCardNo" class="control-label fw-bold"></label>
+                        <input asp-for="AdharCardNo" class="form-control" />
+                        <span asp-validation-for="AdharCardNo" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="EmailAddress" class="control-label fw-bold"></label>
+                        <input asp-for="EmailAddress" class="form-control" type="email" />
+                        <span asp-validation-for="EmailAddress" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Password" class="control-label fw-bold"></label>
+                        <input asp-for="Password" class="form-control" type="password" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <div class="d-flex justify-content-between mt-4">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+@* @await Html.PartialAsync("_Footer") *@

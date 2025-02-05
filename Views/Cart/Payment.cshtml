@@ -1,0 +1,42 @@
+@{
+    ViewData["Title"] = "Payment";
+}
+
+<h2 class="text-center text-primary mt-3">Choose Your Payment Method</h2>
+
+<div class="container mt-4">
+    <form asp-controller="Cart" asp-action="ProcessPayment" method="post">
+        <div class="form-group">
+            <label>Select Payment Method:</label>
+            <select id="paymentMethod" name="paymentMethod" class="form-control" required onchange="toggleQR()">
+                <option value="Credit Card">Credit Card</option>
+                <option value="Debit Card">Debit Card</option>
+                <option value="UPI">UPI</option>
+                <option value="Net Banking">Net Banking</option>
+                <option value="Cash on Delivery">Cash on Delivery</option>
+            </select>
+        </div>
+
+        <!-- QR Code Section for UPI -->
+        <div id="qrSection" class="text-center mt-4" style="display: none;">
+            <h4>Scan the QR Code to Pay via UPI</h4>
+            <img src="data:image/jpeg;base64,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" alt="UPI QR Code" class="img-fluid mt-2" />
+            <p class="text-muted">Scan this code using your UPI app to proceed with the payment.</p>
+        </div>
+
+        <button type="submit" class="btn btn-success btn-block mt-3">Proceed to Pay</button>
+    </form>
+</div>
+
+<script>
+    function toggleQR() {
+        var paymentMethod = document.getElementById("paymentMethod").value;
+        var qrSection = document.getElementById("qrSection");
+
+        if (paymentMethod === "UPI") {
+            qrSection.style.display = "block";
+        } else {
+            qrSection.style.display = "none";
+        }
+    }
+</script>

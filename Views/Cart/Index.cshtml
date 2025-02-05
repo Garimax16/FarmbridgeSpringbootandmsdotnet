@@ -1,0 +1,44 @@
+@model IEnumerable<FarmBridge.Models.CartItem>
+
+@{
+    ViewData["Title"] = "Your Cart";
+}
+
+<h2 class="text-center text-primary mt-3">Your Cart</h2>
+
+@if (!Model.Any())
+{
+    <p class="text-center text-danger">@ViewBag.Message</p>
+}
+else
+{
+    <table class="table table-bordered text-center mt-4">
+        <thead class="thead-dark">
+            <tr>
+                <th>Crop Name</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Crop.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Price</td>
+                    <td>
+                        <a asp-controller="Cart" asp-action="RemoveFromCart" asp-route-id="@item.ItemID" class="btn btn-danger btn-sm">Remove</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+@if (Model.Any())
+{
+    <div class="text-center mt-3">
+        <a asp-controller="Cart" asp-action="Checkout" class="btn btn-success">Proceed to Checkout</a>
+    </div>
+}
+}
