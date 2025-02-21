@@ -1,0 +1,130 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+</head>
+<body>
+
+    <div class="container">
+        <div class="text-center mt-5">
+            <h1 class="display-4">Welcome To FarmBridge</h1>
+            <p class="lead">Connecting farmers with consumers for a sustainable future</p>
+            <a href="@Url.Action("About", "Home")" class="btn btn-primary">Learn More</a>
+        </div>
+
+        <!-- Image Section -->
+        <div class="row mt-5">
+            <div class="col-md-6">
+                <img src="~/images/working-farmers.jpg" class="img-fluid" alt="Farm Image 1" style="height: 300px; object-fit: cover;">
+                <p class="mt-2">Farmers around the world are improving their crops with modern methods.</p>
+            </div>
+            <div class="col-md-6">
+                <img src="~/images/organic-farmers.jpg" class="img-fluid" alt="Farm Image 2" style="height: 300px; object-fit: cover;">
+                <p class="mt-2">FarmBridge ensures consumers get fresh produce directly from farms.</p>
+            </div>
+        </div>
+
+        <!-- Registered Farmers and Buyers Section -->
+        <div class="row text-center mt-5">
+            <div class="col-md-6">
+                <div class="p-4 bg-light border rounded">
+                    <h3>23412</h3>
+                    <p>Registered Farmers</p>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="p-4 bg-light border rounded">
+                    <h3>2345</h3>
+                    <p>Buyers</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Services Section -->
+        <div class="row text-center mt-5">
+            <div class="col-md-4">
+                <img src="~/images/fixed-price.png" alt="Fixed Price Selling" class="mb-3" style="height: 80px;">
+                <h5>Fixed Price Selling</h5>
+                <p>Registered buyers can order organic products online by making online payments for products with seller-set prices.</p>
+            </div>
+            <div class="col-md-4">
+                <img src="~/images/enquiry-based.png" alt="Enquiry Based Buying" class="mb-3" style="height: 80px;">
+                <h5>Enquiry Based Buying</h5>
+                <p>Registered buyers can place enquiries, and eligible sellers can provide quotes. Buyers can choose the best option.</p>
+            </div>
+            <div class="col-md-4">
+                <img src="~/images/future-demand.png" alt="Raising Future Demands" class="mb-3" style="height: 80px;">
+                <h5>Raising Future Demands</h5>
+                <p>Registered buyers can request products that will be produced by farmers in the future.</p>
+            </div>
+        </div>
+
+
+        <!-- Customer Feedback Section -->
+        <div class="mt-5">
+            <h2 class="text-center">Customer Feedback</h2>
+            <div class="row mt-4">
+                <div class="col-md-4">
+                    <div class="card text-center">
+                        <div class="card-body">
+                            <img src="~/images/rahulBharaskar.jpg" alt="Customer Rahul Bharaskar" class="customer-image rounded-circle" style="width: 100px; height: 100px; object-fit: cover;">
+                            <h5 class="card-title">Rahul Bharaskar</h5>
+                            <p class="card-text">"FarmBridge has transformed the way I buy fresh produce. Highly recommended!"</p>
+                            <p>Rating: ★★★★☆</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card text-center">
+                        <div class="card-body">
+                            <img src="~/images/shweta Bhere.jpg" alt="Customer Shweta Bhere" class="customer-image rounded-circle" style="width: 100px; height: 100px; object-fit: cover;">
+                            <h5 class="card-title">Shweta Bhere</h5>
+                            <p class="card-text">"The quality of produce is outstanding. The farmers are very responsive and helpful."</p>
+                            <p>Rating: ★★★★★</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card text-center">
+                        <div class="card-body">
+                            <img src="~/images/Rohit Sharma.jpg" alt="Customer Rohit Sharma" class="customer-image rounded-circle" style="width: 100px; height: 100px; object-fit: cover;">
+                            <h5 class="card-title">Rohit Sharma</h5>
+                            <p class="card-text">"A fantastic platform that supports local farmers and provides great organic products."</p>
+                            <p>Rating: ★★★☆☆</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Additional Content Section -->
+        <div class="mt-5">
+            <h2 class="text-center">Our Mission</h2>
+            <p class="lead">At FarmBridge, we are committed to providing a direct link between farmers and consumers. By eliminating middlemen, we empower farmers to get fair prices for their hard work while ensuring that consumers receive fresh, organic produce at competitive prices.</p>
+
+            <h3>Why Choose Us?</h3>
+            <ul>
+                <li><strong>Fresh Produce:</strong> Our farmers grow fresh, organic produce delivered directly to your doorstep.</li>
+                <li><strong>Fair Pricing:</strong> We ensure that farmers receive fair compensation for their crops.</li>
+                <li><strong>Sustainable Practices:</strong> We promote sustainable farming methods that protect the environment.</li>
+            </ul>
+
+            <div class="text-center mt-4">
+                <a href="@Url.Action("Contact", "Home")" class="btn btn-secondary">Contact Us</a>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+@* @await Html.PartialAsync("_Footer") *@

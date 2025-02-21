@@ -1,0 +1,114 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+
+<h1 class="text-center my-4">Contact Us</h1>
+
+<div class="row">
+    <!-- Left Section with Two Cards -->
+    <div class="col-md-6">
+        <div class="row">
+            <!-- First Card -->
+            <div class="col-md-12 mb-4">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h3 class="card-title">Contact Information</h3>
+                        <p><strong>Address:</strong>India</p>
+                        <p><strong>Phone:</strong> (123) 456-7890</p>
+                        <p><strong>Email:</strong> farmbridge@example.com</p>
+                        <p><strong>Working Hours:</strong> Mon - Fri, 9:00 AM - 5:00 PM</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Second Card -->
+            <div class="col-md-12">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h3 class="card-title">Our Commitment</h3>
+                        <p class="card-text">
+                            At our company, we strive to provide the best services to our customers. Whether you have questions, concerns,
+                            or need support, our team is here to assist you. Reach out to us, and we promise to address your queries promptly.
+                        </p>
+                        <p class="card-text">
+                            <strong>"Your satisfaction is our priority."</strong>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Right Section with Contact Form -->
+    <div class="col-md-6">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h2>Contact Us</h2>
+                <form id="contactForm">
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" class="form-control" id="name" placeholder="Enter your name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" class="form-control" id="email" placeholder="Enter your email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="subject">Subject</label>
+                        <input type="text" class="form-control" id="subject" placeholder="Enter subject" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea class="form-control" id="message" rows="4" placeholder="Enter your message" required></textarea>
+                    </div>
+                    <button type="button" class="btn btn-primary" onclick="submitForm()">Submit</button>
+                </form>
+                <div id="successMessage" class="alert alert-success mt-3 d-none" role="alert">
+                    Your message has been successfully sent. Thank you for contacting us!
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+@* @await Html.PartialAsync("_Footer")  *@
+<script>
+    function submitForm() {
+        // Example logic for showing success message
+        const successMessage = document.getElementById('successMessage');
+        successMessage.classList.remove('d-none');
+
+        // Optionally, clear the form
+        document.getElementById('contactForm').reset();
+    }
+</script>
+
+<style>
+    h1 {
+        font-size: 2.5rem;
+        font-weight: bold;
+    }
+
+    .card {
+        border-radius: 10px;
+        background: #f9f9f9;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+    .form-group label {
+        font-weight: bold;
+    }
+
+    #successMessage {
+        font-size: 1rem;
+        font-weight: bold;
+    }
+</style>

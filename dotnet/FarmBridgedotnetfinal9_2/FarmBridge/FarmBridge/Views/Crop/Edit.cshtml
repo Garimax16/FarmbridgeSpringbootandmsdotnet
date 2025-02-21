@@ -1,0 +1,163 @@
+﻿@* @model Crop *@
+@* @{ *@
+@*     ViewData["Title"] = "Edit"; *@
+@* } *@
+
+
+
+@* <h1>Edit Crop</h1> *@
+
+@* <form asp-action="Edit" enctype="multipart/form-data"> *@
+@*     <div asp-validation-summary="ModelOnly" class="text-danger"></div> *@
+@*     <input type="hidden" asp-for="CropID" /> *@
+@*     <input type="hidden" asp-for="Image" /> *@
+
+@*     <div class="form-group"> *@
+@*         <label asp-for="Name" class="control-label"></label> *@
+@*         <input asp-for="Name" class="form-control" /> *@
+@*         <span asp-validation-for="Name" class="text-danger"></span> *@
+@*     </div> *@
+
+@*     <div class="form-group"> *@
+@*         <label asp-for="Season" class="control-label"></label> *@
+@*         <input asp-for="Season" class="form-control" /> *@
+@*         <span asp-validation-for="Season" class="text-danger"></span> *@
+@*     </div> *@
+
+@*     <div class="form-group"> *@
+@*         <label asp-for="Quantity" class="control-label"></label> *@
+@*         <input asp-for="Quantity" class="form-control" /> *@
+@*         <span asp-validation-for="Quantity" class="text-danger"></span> *@
+@*     </div> *@
+
+@*     <div class="form-group"> *@
+@*         <label asp-for="Status" class="control-label"></label> *@
+@*         <input asp-for="Status" class="form-control" /> *@
+@*         <span asp-validation-for="Status" class="text-danger"></span> *@
+@*     </div> *@
+
+@*     <div class="form-group"> *@
+@*         <label asp-for="Price" class="control-label"></label> *@
+@*         <input asp-for="Price" class="form-control" /> *@
+@*         <span asp-validation-for="Price" class="text-danger"></span> *@
+@*     </div> *@
+
+@*     <div class="form-group"> *@
+@*         <label asp-for="FarmerID" class="control-label"></label> *@
+@*         <select asp-for="FarmerID" class="form-control" *@
+@*                 asp-items="@(new SelectList(ViewBag.Farmers, "FarmerID", "FullName"))"> *@
+@*         </select> *@
+@*         <span asp-validation-for="FarmerID" class="text-danger"></span> *@
+@*     </div> *@
+
+@*     <div class="form-group"> *@
+@*         <label for="imageFile" class="control-label">New Image</label> *@
+@*         <input type="file" id="imageFile" name="imageFile" class="form-control" /> *@
+@*     </div> *@
+
+@*     @if (Model.Image != null) *@
+@*     { *@
+@*         <div class="form-group"> *@
+@*             <label>Current Image</label> *@
+@*             <img src="data:image/jpeg;base64,@Convert.ToBase64String(Model.Image)" *@
+@*                  alt="Current Image" style="max-width: 200px;" /> *@
+@*         </div> *@
+@*     } *@
+
+@*     <div class="form-group mt-3"> *@
+@*         <input type="submit" value="Save" class="btn btn-primary" /> *@
+@*         <a asp-action="Index" class="btn btn-secondary">Back to List</a> *@
+@*     </div> *@
+@* </form> *@
+
+@* @section Scripts { *@
+@*     @{ *@
+@*         await Html.RenderPartialAsync("_ValidationScriptsPartial"); *@
+@*     } *@
+@* } *@
+
+@model Crops
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="container mt-5" style="width:100vw;">
+    <h1 class="text-center text-primary mb-4">Edit Crop</h1>
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <!-- Adjust width with col-md-* -->
+            <form asp-action="Edit" enctype="multipart/form-data" class="bg-light p-4 shadow rounded">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                <input type="hidden" asp-for="CropID" />
+                <input type="hidden" asp-for="Image" />
+
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label fw-bold"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Season" class="form-label fw-bold"></label>
+                    <input asp-for="Season" class="form-control" />
+                    <span asp-validation-for="Season" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Quantity" class="form-label fw-bold"></label>
+                    <input asp-for="Quantity" class="form-control" />
+                    <span asp-validation-for="Quantity" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Status" class="form-label fw-bold"></label>
+                    <input asp-for="Status" class="form-control" readonly />
+                    <span asp-validation-for="Status" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Price" class="form-label fw-bold"></label>
+                    <input asp-for="Price" class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="FarmerID" class="form-label fw-bold"></label>
+                    <select asp-for="FarmerID" class="form-select"
+                            asp-items="@(new SelectList(ViewBag.Farmers, "FarmerID", "FullName"))">
+                    </select>
+                    <span asp-validation-for="FarmerID" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label for="imageFile" class="form-label fw-bold">New Image</label>
+                    <input type="file" id="imageFile" name="imageFile" class="form-control" />
+                </div>
+
+                @if (Model.Image != null)
+                {
+                    <div class="mb-3">
+                        <label class="form-label fw-bold">Current Image</label>
+                        <div>
+                            <img src="data:image/jpeg;base64,@Convert.ToBase64String(Model.Image)"
+                                 alt="Current Image" class="img-thumbnail" style="max-width: 200px;" />
+                        </div>
+                    </div>
+                }
+
+                <div class="d-flex justify-content-between">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+@* @await Html.PartialAsync("_Footer") *@

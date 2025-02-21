@@ -1,0 +1,20 @@
+﻿@model FarmBridge.Dtos.OtpVerificationDTO
+
+@{
+    ViewData["Title"] = "Verify OTP";
+}
+
+<h2>Verify OTP</h2>
+
+<form asp-action="VerifyOtp" method="post">
+    <!-- Hidden field for email -->
+    <input type="hidden" asp-for="Email" />
+
+    <div class="form-group">
+        <label for="OTP">Enter the OTP sent to your email:</label>
+        <input type="text" class="form-control" id="OTP" asp-for="OTP" placeholder="Enter OTP" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Verify OTP</button>
+</form>
+

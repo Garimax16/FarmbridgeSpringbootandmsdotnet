@@ -1,0 +1,51 @@
+@{
+    ViewBag.Title = "Process Payment";
+}
+
+<h2>Process Your Payment</h2>
+
+<div>
+    <h4>Choose Payment Method</h4>
+    <form asp-action="ProcessPayment" method="post">
+        <label for="paymentMethod">Select Payment Method:</label>
+        <select id="paymentMethod" name="paymentMethod" onchange="togglePaymentSection()">
+            <option value="Credit Card">Credit Card</option>
+            <option value="Debit Card">Debit Card</option>
+            <option value="UPI">UPI</option>
+        </select>
+
+        <div id="stripeCardSection" style="display: none; margin-top: 20px;">
+            <label for="card-element">Enter Card Details:</label>
+            <div id="card-element" style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
+                <!-- Stripe card input will be rendered here -->
+            </div>
+        </div>
+
+        <div id="qrSection" style="display: none; margin-top: 20px;">
+            <h4>Scan QR Code for UPI Payment</h4>
+            <img src="~/images/sample-qr-code.png" alt="QR Code" />
+        </div>
+
+        <button type="submit" class="btn btn-primary" style="margin-top: 20px;">Proceed to Payment</button>
+    </form>
+</div>
+
+<script>
+    // JavaScript function to toggle payment sections
+    function togglePaymentSection() {
+        const paymentMethod = document.getElementById('paymentMethod').value;
+        const stripeSection = document.getElementById('stripeCardSection');
+        const qrSection = document.getElementById('qrSection');
+
+        if (paymentMethod === 'Credit Card' || paymentMethod === 'Debit Card') {
+            stripeSection.style.display = 'block';
+            qrSection.style.display = 'none';
+        } else if (paymentMethod === 'UPI') {
+            stripeSection.style.display = 'none';
+            qrSection.style.display = 'block';
+        } else {
+            stripeSection.style.display = 'none';
+            qrSection.style.display = 'none';
+        }
+    }
+</script>

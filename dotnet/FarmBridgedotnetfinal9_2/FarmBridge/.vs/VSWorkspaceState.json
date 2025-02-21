@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FarmBridge",
+    "\\FarmBridge\\Controllers",
+    "\\FarmBridge\\Migrations",
+    "\\FarmBridge\\Models",
+    "\\FarmBridge\\Services",
+    "\\FarmBridge\\Views",
+    "\\FarmBridge\\Views\\Buyer",
+    "\\FarmBridge\\Views\\Cart",
+    "\\FarmBridge\\Views\\Checkout"
+  ],
+  "SelectedNode": "\\FarmBridge\\Controllers\\OrderController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,92 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    body {
+        background-color: #f4f7fc;
+    }
+
+    h2 {
+        color: #333;
+        font-weight: bold;
+    }
+
+    .card {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        background-color: #ffffff;
+        border: none;
+    }
+
+        .card:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+        }
+
+    .card-title {
+        font-size: 1.25rem;
+        color: #007bff;
+        font-weight: bold;
+    }
+
+    .card-text {
+        color: #555;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+    .row {
+        background-color: #e9f7fa;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+
+    .mt-5 {
+        margin-top: 3rem !important;
+    }
+</style>
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Admin Menu</h2>
+    <div class="row justify-content-center">
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Listing Management</h5>
+                    <p class="card-text">Manage crop listings submitted by farmers.</p>
+
+                    <a href="@Url.Action("Index", "Admin")" class="btn btn-primary">Go to Listings</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <div class="card-body text-center">
+                    <h5 class="card-title"> Farmer Profile Management</h5>
+                    <p class="card-text">Manage farmer profiles and related details.</p>
+
+                    <a href="@Url.Action("ProfileManagement", "Admin")" class="btn btn-primary">Go to Profiles</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <div class="card-body text-center">
+                    <h5 class="card-title"> Buyer Profile Management</h5>
+                    <p class="card-text">Manage user profiles and related details.</p>
+
+                    <a href="@Url.Action("Index", "Buyer")" class="btn btn-primary">Go to Profiles</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,143 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CropManagement</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .content-wrapper {
+            flex: 1; 
+        }
+
+        .navbar-custom {
+            background-color: #20B2AA; 
+            color: white;
+        }
+        .navbar-brand {
+            font-size: 24px;
+            font-weight: bold;
+            color: white;
+        }
+        .navbar-nav .nav-link {
+            color: white;
+            font-size: 18px;
+        }
+        .navbar-nav .nav-link:hover {
+            color: #FFD700; /* Gold color on hover */
+        }
+        .dropdown-toggle {
+            color: white;
+            border: none;
+            padding: 5px 15px;
+            border-radius: 5px;
+        }
+        .dropdown-toggle:hover {
+            background-color: #FFD700; 
+        }
+        .dropdown-menu {
+            background-color: #20B2AA; 
+            border: none;
+        }
+        .dropdown-item {
+            color: white;
+        }
+        .dropdown-item:hover {
+            background-color: #FFD700;
+        }
+        .btn {
+            color: white;
+            font-size: 18px;
+        }
+
+        footer {
+            background-color: rgb(46, 144, 69);
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-custom">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">FarmBridge</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Admin" asp-action="Login">Admin Login</a>
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Farmer
+                                </button>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" asp-controller="Farmer" asp-action="Create">Register</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Farmer" asp-action="Login">Login</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Buyer
+                                </button>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" asp-controller="Buyer" asp-action="Register">Register</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Buyer" asp-action="Login">Login</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Contact">Contact Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="About">About Us</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="content-wrapper">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+   
+    <footer>
+        <div>
+            <p style="margin: 5px 0; color: white;">&copy; 2025 - FarmBridge. All Rights Reserved.</p>
+            <p style="margin: 5px 0;">
+                <a href="/Home/Privacy" class="text-decoration-none" style="color: white;">Privacy Policy</a> |
+                <a href="/Home/About" class="text-decoration-none" style="color: white;">About Us</a> |
+                <a href="/Home/Contact" class="text-decoration-none" style="color: white;">Contact Us</a>
+            </p>
+        </div>
+    </footer>
+<script src="https://js.stripe.com/v3/"></script>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FarmBridge.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FarmBridge.53inytl6n8.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\Rohit Sharma.jpg",
+      "PackagePath": "staticwebassets\\Images\\Rohit Sharma.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\Rohit.jpg",
+      "PackagePath": "staticwebassets\\Images\\Rohit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\Shweta Bhere.jpg",
+      "PackagePath": "staticwebassets\\Images\\Shweta Bhere.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\adityaKansana.jpg",
+      "PackagePath": "staticwebassets\\Images\\adityaKansana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\ashishJadhav.jpg",
+      "PackagePath": "staticwebassets\\Images\\ashishJadhav.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\connection.jpg",
+      "PackagePath": "staticwebassets\\Images\\connection.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\ecommerce-platform.jpg",
+      "PackagePath": "staticwebassets\\Images\\ecommerce-platform.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\enquiry-based.png",
+      "PackagePath": "staticwebassets\\Images\\enquiry-based.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\facebook-clipart-twitter-instagram-9.png",
+      "PackagePath": "staticwebassets\\Images\\facebook-clipart-twitter-instagram-9.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\farm-header.jpg",
+      "PackagePath": "staticwebassets\\Images\\farm-header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\farm-tools.jpg",
+      "PackagePath": "staticwebassets\\Images\\farm-tools.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\fixed-price.png",
+      "PackagePath": "staticwebassets\\Images\\fixed-price.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\future-demand.png",
+      "PackagePath": "staticwebassets\\Images\\future-demand.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\logo-facebook.png",
+      "PackagePath": "staticwebassets\\Images\\logo-facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\logo-instagram.png",
+      "PackagePath": "staticwebassets\\Images\\logo-instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\logo-twitter.png",
+      "PackagePath": "staticwebassets\\Images\\logo-twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\manojMore.jpg",
+      "PackagePath": "staticwebassets\\Images\\manojMore.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\organic-farmers.jpg",
+      "PackagePath": "staticwebassets\\Images\\organic-farmers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\organic-products.jpg",
+      "PackagePath": "staticwebassets\\Images\\organic-products.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\pricing-mechanisms.jpg",
+      "PackagePath": "staticwebassets\\Images\\pricing-mechanisms.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\rahulBharaskar.jpg",
+      "PackagePath": "staticwebassets\\Images\\rahulBharaskar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\rohitOwal.jpg",
+      "PackagePath": "staticwebassets\\Images\\rohitOwal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\sameerDehadrai.jpg",
+      "PackagePath": "staticwebassets\\Images\\sameerDehadrai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\shilBhushan.jpg",
+      "PackagePath": "staticwebassets\\Images\\shilBhushan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\what-we-give.jpg",
+      "PackagePath": "staticwebassets\\Images\\what-we-give.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\who-we-are.jpg",
+      "PackagePath": "staticwebassets\\Images\\who-we-are.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\working-farmers.jpg",
+      "PackagePath": "staticwebassets\\Images\\working-farmers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\Images\\yugandharDeshmukh.jpg",
+      "PackagePath": "staticwebassets\\Images\\yugandharDeshmukh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FarmBridge.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FarmBridge.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FarmBridge.props",
+      "PackagePath": "build\\FarmBridge.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FarmBridge.props",
+      "PackagePath": "buildMultiTargeting\\FarmBridge.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FarmBridge.props",
+      "PackagePath": "buildTransitive\\FarmBridge.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

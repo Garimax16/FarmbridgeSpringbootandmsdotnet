@@ -1,0 +1,1156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\buyer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\buyer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\checkout\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\checkout\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\controllers\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\controllers\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\services\\stripeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\services\\stripeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Migrations\\20250209142005_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FarmBridge\\Migrations\\20250209142005_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Migrations\\20250209141558_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FarmBridge\\Migrations\\20250209141558_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Downloads\\FarmBridge (3)\\FarmBridge\\FarmBridge\\Models\\CartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\repositories\\ibuyerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\repositories\\ibuyerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\repositories\\buyerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\repositories\\buyerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\dtos\\buyerregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\dtos\\buyerregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\dtos\\buyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\dtos\\buyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\models\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\models\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\services\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\services\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\dto\\checkoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\dto\\checkoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\models\\crops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\models\\crops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\checkout\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\checkout\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\cart\\cancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\cart\\cancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\controllers\\i.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\controllers\\i.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\services\\farmerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\services\\farmerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\controllers\\cropcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\controllers\\cropcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\dtos\\buyerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\dtos\\buyerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\farmer\\verifyotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\farmer\\verifyotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\buyer\\verifyotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\buyer\\verifyotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\admin\\verifyotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\admin\\verifyotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\dtos\\otpverificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\dtos\\otpverificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\dtos\\otpdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\dtos\\otpdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\farmer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\farmer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\dto\\farmerauthenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\dto\\farmerauthenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\dto\\farmerauthenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\dto\\farmerauthenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\buyer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\buyer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\farmer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\farmer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\farmer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\farmer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\crop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\crop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\crop\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\crop\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\crop\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\crop\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\crop\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\crop\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\buyer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\buyer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\admin\\adminmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\admin\\adminmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\buyer\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\buyer\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|c:\\users\\dell\\downloads\\farmbridgedotnetfinal9_2\\farmbridge\\farmbridge\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13D8F2CB-AFDB-445D-8586-603E5765FA10}|FarmBridge\\FarmBridge.csproj|solutionrelative:farmbridge\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StripeService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\StripeService.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Services\\StripeService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\StripeService.cs",
+              "RelativeToolTip": "FarmBridge\\Services\\StripeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:27:28.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250209142005_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Migrations\\20250209142005_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Migrations\\20250209142005_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Migrations\\20250209142005_InitialCreate.cs",
+              "RelativeToolTip": "FarmBridge\\Migrations\\20250209142005_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:20:05.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250209141558_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Migrations\\20250209141558_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Migrations\\20250209141558_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Migrations\\20250209141558_InitialCreate.cs",
+              "RelativeToolTip": "FarmBridge\\Migrations\\20250209141558_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:15:58.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBuyerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Repositories\\IBuyerRepository.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Repositories\\IBuyerRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Repositories\\IBuyerRepository.cs",
+              "RelativeToolTip": "FarmBridge\\Repositories\\IBuyerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:05:10.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BuyerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Repositories\\BuyerRepository.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Repositories\\BuyerRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Repositories\\BuyerRepository.cs",
+              "RelativeToolTip": "FarmBridge\\Repositories\\BuyerRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:15:20.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "FarmBridge\\Repositories\\CartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:16:22.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "FarmBridge\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:57:22.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "FarmBridge\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:56:48.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "FarmBridge\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:13:43.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuyerController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\BuyerController.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Controllers\\BuyerController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\BuyerController.cs",
+              "RelativeToolTip": "FarmBridge\\Controllers\\BuyerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:47:42.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BuyerRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Dtos\\BuyerRegisterDto.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Dtos\\BuyerRegisterDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Dtos\\BuyerRegisterDto.cs",
+              "RelativeToolTip": "FarmBridge\\Dtos\\BuyerRegisterDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:21:22.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BuyerDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Dtos\\BuyerDto.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Dtos\\BuyerDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Dtos\\BuyerDto.cs",
+              "RelativeToolTip": "FarmBridge\\Dtos\\BuyerDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:15:58.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Models\\Buyer.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Models\\Buyer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Models\\Buyer.cs",
+              "RelativeToolTip": "FarmBridge\\Models\\Buyer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:19:29.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T10:49:25.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Checkout\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Checkout\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Checkout\\Checkout.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Checkout\\Checkout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwE8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T10:48:41.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\OrderService.cs",
+              "RelativeToolTip": "FarmBridge\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:58:36.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Models\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "FarmBridge\\Models\\OrderDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:53:39.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\OrderController.cs*",
+              "RelativeToolTip": "FarmBridge\\Controllers\\OrderController.cs*",
+              "ViewState": "AgIAALYAAAAAAAAAAAAxwMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:45:04.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "FarmBridge\\Controllers\\CheckoutController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAGsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:12:47.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Models\\Order.cs",
+              "RelativeToolTip": "FarmBridge\\Models\\Order.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwFEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:53:26.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FarmBridge\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAywC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:18:46.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\OrderItem.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Controllers\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\OrderItem.cs",
+              "RelativeToolTip": "FarmBridge\\Controllers\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:04:39.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\appsettings.json",
+              "RelativeDocumentMoniker": "FarmBridge\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\appsettings.json",
+              "RelativeToolTip": "FarmBridge\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T10:21:27.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CartItems.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Models\\CartItems.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Models\\CartItems.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Models\\CartItems.cs",
+              "RelativeToolTip": "FarmBridge\\Models\\CartItems.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:14:53.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Models\\Cart.cs",
+              "RelativeToolTip": "FarmBridge\\Models\\Cart.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:12:40.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OtpService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\OtpService.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Services\\OtpService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\OtpService.cs",
+              "RelativeToolTip": "FarmBridge\\Services\\OtpService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAewDYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:35:08.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\CartController.cs",
+              "RelativeToolTip": "FarmBridge\\Controllers\\CartController.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAowFcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:53:08.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T10:58:35.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\IOrderService.cs",
+              "RelativeToolTip": "FarmBridge\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:58:04.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IOtpService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\IOtpService.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Services\\IOtpService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\IOtpService.cs",
+              "RelativeToolTip": "FarmBridge\\Services\\IOtpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:34:28.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CheckoutRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\DTO\\CheckoutRequest.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\DTO\\CheckoutRequest.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\DTO\\CheckoutRequest.cs",
+              "RelativeToolTip": "FarmBridge\\DTO\\CheckoutRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:36:58.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Crops.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Models\\Crops.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Models\\Crops.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Models\\Crops.cs",
+              "RelativeToolTip": "FarmBridge\\Models\\Crops.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:19:47.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Program.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Program.cs",
+              "RelativeToolTip": "FarmBridge\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAkwHgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:16:15.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Checkout\\Success.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Checkout\\Success.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Checkout\\Success.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Checkout\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T11:23:28.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\PaymentService.cs",
+              "RelativeToolTip": "FarmBridge\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:44:53.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Cancel.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Cart\\Cancel.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Cart\\Cancel.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Cart\\Cancel.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Cart\\Cancel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T11:00:58.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Repositories\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Repositories\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Repositories\\ICartRepository.cs",
+              "RelativeToolTip": "FarmBridge\\Repositories\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:16:15.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "I.java",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\I.java",
+              "RelativeDocumentMoniker": "FarmBridge\\Controllers\\I.java",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\I.java",
+              "RelativeToolTip": "FarmBridge\\Controllers\\I.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-02-08T10:12:59.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FarmerService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\FarmerService.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Services\\FarmerService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\FarmerService.cs",
+              "RelativeToolTip": "FarmBridge\\Services\\FarmerService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:03:14.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BuyerService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\BuyerService.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Services\\BuyerService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Services\\BuyerService.cs",
+              "RelativeToolTip": "FarmBridge\\Services\\BuyerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:15:06.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CropController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\CropController.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Controllers\\CropController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\CropController.cs",
+              "RelativeToolTip": "FarmBridge\\Controllers\\CropController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:00:17.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BuyerLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Dtos\\BuyerLoginDto.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Dtos\\BuyerLoginDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Dtos\\BuyerLoginDto.cs",
+              "RelativeToolTip": "FarmBridge\\Dtos\\BuyerLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:08:38.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "VerifyOtp.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Farmer\\VerifyOtp.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Farmer\\VerifyOtp.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Farmer\\VerifyOtp.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Farmer\\VerifyOtp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T12:58:02.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "VerifyOtp.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Buyer\\VerifyOtp.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Buyer\\VerifyOtp.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Buyer\\VerifyOtp.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Buyer\\VerifyOtp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T13:01:09.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "VerifyOtp.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Admin\\VerifyOtp.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Admin\\VerifyOtp.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Admin\\VerifyOtp.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Admin\\VerifyOtp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T11:57:51.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OtpVerificationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Dtos\\OtpVerificationDTO.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Dtos\\OtpVerificationDTO.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Dtos\\OtpVerificationDTO.cs",
+              "RelativeToolTip": "FarmBridge\\Dtos\\OtpVerificationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:09:51.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Otpdetails.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Dtos\\Otpdetails.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Dtos\\Otpdetails.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Dtos\\Otpdetails.cs",
+              "RelativeToolTip": "FarmBridge\\Dtos\\Otpdetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:07:58.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Farmer\\Login.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Farmer\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Farmer\\Login.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Farmer\\Login.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T10:24:29.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FarmerAuthenticateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\DTO\\FarmerAuthenticateResponse.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\DTO\\FarmerAuthenticateResponse.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\DTO\\FarmerAuthenticateResponse.cs",
+              "RelativeToolTip": "FarmBridge\\DTO\\FarmerAuthenticateResponse.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:23:14.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FarmerController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\FarmerController.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Controllers\\FarmerController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Controllers\\FarmerController.cs",
+              "RelativeToolTip": "FarmBridge\\Controllers\\FarmerController.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAmwLMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:19:57.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FarmerAuthenticateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\DTO\\FarmerAuthenticateRequest.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\DTO\\FarmerAuthenticateRequest.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\DTO\\FarmerAuthenticateRequest.cs",
+              "RelativeToolTip": "FarmBridge\\DTO\\FarmerAuthenticateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:19:55.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Buyer\\Index.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Buyer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Buyer\\Index.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Buyer\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T09:49:16.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Farmer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Models\\Farmer.cs",
+              "RelativeDocumentMoniker": "FarmBridge\\Models\\Farmer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Models\\Farmer.cs",
+              "RelativeToolTip": "FarmBridge\\Models\\Farmer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:25:54.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Farmer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Farmer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Farmer\\Delete.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Farmer\\Delete.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwEIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T09:10:36.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Farmer\\Create.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Farmer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Farmer\\Create.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Farmer\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T09:10:28.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Crop\\Index.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Crop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Crop\\Index.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Crop\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAIBJwEQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T09:10:08.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Crop\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Crop\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Crop\\Delete.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Crop\\Delete.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAIBJwF8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T09:09:59.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Crop\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Crop\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Crop\\Edit.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Crop\\Edit.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAIBJwHEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T09:09:49.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Crop\\Create.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Crop\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Crop\\Create.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Crop\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T09:09:41.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Buyer\\Register.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Buyer\\Register.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Buyer\\Register.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Buyer\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwBoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T09:09:33.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Buyer\\Login.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Buyer\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Buyer\\Login.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Buyer\\Login.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T09:09:25.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T09:09:03.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAIBJwEcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T08:57:34.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AdminMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Admin\\AdminMenu.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Admin\\AdminMenu.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Admin\\AdminMenu.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Admin\\AdminMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T08:57:16.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Buyer\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Buyer\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Buyer\\GetAll.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Buyer\\GetAll.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T21:24:36.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T20:32:26.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAIBJwFkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T20:26:05.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "FarmBridge\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridgedotnetfinal9_2\\FarmBridge\\FarmBridge\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "FarmBridge\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T20:23:48.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\FarmBridge (3)\\FarmBridge\\FarmBridge\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\FarmBridge (3)\\FarmBridge\\FarmBridge\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\FarmBridge (3)\\FarmBridge\\FarmBridge\\Models\\CartItem.cs",
+              "RelativeToolTip": "..\\..\\FarmBridge (3)\\FarmBridge\\FarmBridge\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:14:11.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

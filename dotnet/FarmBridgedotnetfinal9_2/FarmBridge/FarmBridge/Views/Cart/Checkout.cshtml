@@ -1,0 +1,41 @@
+
+@model IEnumerable<FarmBridge.Models.CartItem>
+
+<h2>Your Cart</h2>
+
+@if (!Model.Any())
+{
+    <p class="text-danger">Your cart is empty. Add some items before proceeding to checkout.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Crop Name</th>
+                <th>Quantity</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Crop.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>$@(item.Crop.Price * item.Quantity)</td> <!-- FIXED PRICE CALCULATION -->
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h3>Total: $@(Model.Sum(x => x.Crop.Price * x.Quantity))</h3> <!-- FIXED TOTAL -->
+
+    <form method="post" action="@Url.Action("CreateCheckoutSession", "Checkout")">
+        <input type="hidden" name="cartId" value="@Model.First().CartID" />
+        <input type="hidden" name="buyerId" value="@Model.First().Cart.BuyerID" /> <!-- Fix: Ensure BuyerID is sent -->
+        <button type="submit" class="btn btn-success">Proceed to Checkout</button>
+    </form>
+
+
+}
