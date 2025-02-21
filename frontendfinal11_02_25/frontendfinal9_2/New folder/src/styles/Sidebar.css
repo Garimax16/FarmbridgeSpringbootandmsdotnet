@@ -1,0 +1,41 @@
+.sidebar {
+    padding: 20px;
+    border-right: 1px solid #ccc;
+    height: 100vh;
+    overflow-y: auto;
+    width:300px;
+  }
+  
+  .search-bar {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .categories,
+  .states {
+    margin-bottom: 20px;
+    height: 150px; /* Same height for both sections */
+    overflow-y: auto; /* Adds a scrollbar */
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  label {
+    display: block;
+    margin: 5px 0;
+    font-size: 14px;
+  }
+  
+  input[type="checkbox"] {
+    margin-right: 8px;
+  }
+  

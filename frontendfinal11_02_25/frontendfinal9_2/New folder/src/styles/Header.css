@@ -1,0 +1,76 @@
+
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.logo {
+  cursor: pointer;
+}
+
+.logo h2 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+/* Menu */
+.menu {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.menu a:hover {
+  color: #f1f1f1;
+}
+
+/* Controls */
+.controls {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+/* User Name Button */
+.user-menu {
+  text-transform: none;
+  font-size: 1rem; /* Increase size */
+  font-weight: bold; /* Make text bold */
+  color: white; /* Contrast color */
+  padding: 0.5rem 1rem; /* Add padding */
+  background-color: transparent; /* Transparent background */
+  border: 2px solid white; /* Optional for visibility */
+  border-radius: 5px; /* Rounded edges */
+  transition: background-color 0.3s, color 0.3s; /* Smooth hover effects */
+}
+
+.user-menu:hover {
+  background-color: white; /* Hover background */
+  color: #e2f3e2; /* Hover text color */
+}
+
+
+/* Mobile Menu */
+.mobile-menu {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .menu {
+    display: none;
+  }
+  .mobile-menu {
+    display: block;
+  }
+}

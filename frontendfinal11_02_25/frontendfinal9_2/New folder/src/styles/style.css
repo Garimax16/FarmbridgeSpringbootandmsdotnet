@@ -1,0 +1,303 @@
+.header {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 7rem;
+  font-weight: bolder;
+  font-size: 2em;
+  color:#11a3a1;
+}
+
+.nav {
+  background-color:#11a3a1;
+  height: 3.5rem;
+}
+
+.show {
+  z-index: 100;
+}
+
+#basic-nav-dropdown {
+  color: rgb(88, 11, 11) !important;
+}
+.nav-links {
+  color: rgb(88, 11, 11) !important;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.features {
+  display: flex;
+  width: 90vw;
+  justify-content: space-around;
+
+  margin: auto;
+}
+.feature {
+  width: 33%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 1.5rem;
+}
+.feature h4,
+p {
+  margin-top: 2rem;
+}
+.mid {
+  margin: 3rem;
+  text-align: center;
+}
+.mid > p {
+  margin-top: 2rem;
+}
+.mid-cards {
+  display: flex;
+  justify-content: center;
+}
+
+.mid-card {
+  display: inline;
+  width: 10rem;
+  background-color: beige;
+  margin: 2%;
+  box-shadow: 2px 2px 2px yellow;
+}
+.mid-card > img {
+  margin-top: 5%;
+  font-weight: bold;
+}
+.mid-card > p {
+  font-weight: bold;
+}
+.footer {
+  margin-top:-3rem;
+  color: white;
+  background-color: #11a3a1;
+  height:max-content;
+  text-align: center;
+}
+.footer > p {
+  margin-left: 10%;
+}
+
+.myCrops {
+  width: 60%;
+  /* border: 1px solid grey;
+  box-shadow: 1px 2px 2px grey; */
+  margin: auto;
+  margin-top: 2rem;
+  padding: 0.5rem;
+  /* background: rgb(231, 229, 229); */
+}
+
+.myCrops h4 {
+  font-weight: bold;
+  color: #31708f ;
+  display: inline;
+  font-size: 2.5em;
+  margin-left: 1rem;
+}
+#banner > button {
+  font-weight: bold;
+  color: black;
+
+  height: 3rem;
+  padding: 0.4rem;
+  margin-right: 20px !important;
+}
+
+#banner {
+  height: 7rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.myCropsList {
+  margin-top: 2rem;
+  /* margin-left:2rem; */
+
+  font-size: 1rem;
+}
+
+td,
+th {
+  /* Add padding to the left of each cell */
+  padding-right: 2em; /* Add padding to the right of each cell */
+}
+td {
+  font-size: 1em;
+  padding-top: 2em;
+  white-space: normal;
+}
+th {
+  font-size: 1.5rem;
+  width: 10rem;
+}
+.s-container {
+  display: flex;
+}
+
+.myOrders-s {
+  width: 60%;
+
+  /* border: 2px solid red; */
+  margin: auto;
+  margin-top: 2rem;
+  padding: 0.5rem;
+  /* border: 1px solid grey;
+  box-shadow: 1px 2px 2px grey; */
+  /* background: rgb(231, 229, 229); */
+}
+
+.myOrders-s h4 {
+  font-weight: bold;
+  color:  #31708f;
+  display: inline;
+  font-size: 2.5em;
+  margin-left: 1rem;
+}
+
+.myOrdersList {
+  overflow-x: auto;
+
+  margin-top: 2rem;
+  /* margin-left:2rem; */
+  border-spacing: 40px;
+  font-size: 1rem;
+}
+
+#s-view {
+  border-radius: 3px;
+  background: #3071a9;
+  color: white;
+  width: 4.5rem;
+}
+
+#s-edit {
+  border-radius: 3px;
+  background: #3071a9;
+  color: white;
+  width: 4rem;
+  margin-right: 0.5rem;
+}
+
+#s-delete {
+  border-radius: 3px;
+  background: red;
+  color: white;
+}
+
+#s-add {
+  border-radius: 3px;
+  background-color: #3071a9;
+  color: white;
+}
+
+.addNewCrop {
+  width: 27em;
+}
+
+.s-heading {
+  display: flex;
+  margin-top: 2rem;
+  justify-content: center;
+  color: #31708f;
+  font-weight: bold;
+}
+
+.sellerdashnav {
+  position: relative;
+  left: 20%;
+  background-color: white;
+  margin-top: 3rem;
+}
+
+.Sdash {
+  margin: auto;
+
+  width: 80%;
+}
+
+.SDashNav {
+  font-size: 1.2rem !important;
+  color:  #31708f !important;
+  font-weight: bold !important;
+}
+.sellerdashnav .active {
+  background-color: pink !important;
+}
+
+.collapsed-bg {
+  background-color: #31708f !important;
+  z-index: 100;
+}
+
+.adminlogin{
+
+width:35%;
+margin:auto;
+
+border-radius:1rem;
+box-shadow: 1px 1px 1px 1px grey;
+margin-top:5rem;
+padding:2rem;
+margin-bottom: 11rem;
+
+}
+
+.aloginheading{
+color: #31708f;
+font-weight: bold;
+text-align: center;
+font-size: 2rem;
+
+}
+
+.admindashheading{
+
+margin-left:40%;
+margin-top:3rem;
+  font-weight:bold;
+color: #31708f;
+
+}
+.ordersmgmt h4{
+  font-weight: bold;
+  color:  #31708f;
+  display: inline;
+  font-size: 2em;
+  margin-left: 5% ;
+  margin-bottom:2rem;
+  
+}
+
+.ordersmgmt {
+  width:75%;
+  margin:auto;
+  margin-top: 5%;
+}
+
+.OrderList{
+margin-top: 3%;
+
+}
+#feature3{
+margin-top:-0.4rem;
+
+}
+
+#s-view1{
+  margin-right:0.5rem;
+  border-radius: 3px;
+  background-color: #3071a9;
+  width:4rem;
+}
+
+
+.addNewCrop{
+
+  width:90%;
+}

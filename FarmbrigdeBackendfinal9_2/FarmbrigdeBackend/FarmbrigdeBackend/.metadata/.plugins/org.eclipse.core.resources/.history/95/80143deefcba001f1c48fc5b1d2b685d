@@ -1,0 +1,123 @@
+package com.farmbridge.service;
+
+import java.util.List;
+import java.util.stream.Collectors;
+
+import org.modelmapper.ModelMapper;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.farmbridge.dto.CartDTO;
+import com.farmbridge.dto.CartItemDTO;
+import com.farmbridge.dto.OrderDTO;
+import com.farmbridge.dto.OrderDetailsDTO;
+import com.farmbridge.entities.Buyer;
+import com.farmbridge.entities.Cart;
+import com.farmbridge.entities.CartItem;
+import com.farmbridge.entities.Crop;
+import com.farmbridge.entities.Farmer;
+import com.farmbridge.entities.Order;
+import com.farmbridge.entities.OrderDetails;
+import com.farmbridge.repository.BuyerRepository;
+import com.farmbridge.repository.CartItemRepository;
+import com.farmbridge.repository.CartRepository;
+import com.farmbridge.repository.CropRepository;
+import com.farmbridge.repository.OrderDetailsRepository;
+import com.farmbridge.repository.OrderRepository;
+
+
+@Service
+@Transactional
+public class OrderServiceImpl implements OrderService {
+	
+	@Autowired
+	private OrderRepository orderRepo;
+	
+	@Autowired
+	private CartRepository cartRepo;
+	
+	
+	@Autowired
+	private OrderDetailsRepository orderDetailsRepo;
+	
+	@Autowired
+	private CropRepository cropRepo;
+	
+	@Autowired
+	private BuyerRepository buyerRepo;
+	
+	@Autowired
+	private ModelMapper mapper;
+
+	@Override
+	public OrderDTO createOrderFromCart(CartDTO cart,long id) {
+		OrderDTO order = new OrderDTO();
+		Buyer b=buyerRepo.findById(id).orElseThrow(() -> new IllegalArgumentException("Invalid Crop ID: " + id));
+		System.out.println(b);
+		order.setBuyer_id(b.getId());
+		Cart ca=cartRepo.findById(cart.getId()).orElse(null); 
+		List<CartItem> cartItem=ca.getCartItem();
+		
+		List<CartItemDTO> cDTO=cartItem.stream().map(carti->{ CartItemDTO c=mapper.map(carti, CartItemDTO.class);
+		                                                   c.setCart_id(carti.getCart().getId());
+		                                                   c.setCrop_id(carti.getCrop().getId());
+		                                                   return c;
+		                                                   }).collect(Collectors.toList());
+		Order o=mapper.map(order,Order.class);
+		o.setBuyer(b);
+		
+		Order saved=orderRepo.save(o);
+		for(CartItemDTO item:cDTO) {
+			OrderDetailsDTO details=createOrderDetails(item,id,o.getId());
+			order.getOrderDetailsDTO().add(details);
+			details.setOrder_id(saved.getId());
+			
+			orderDetailsRepo.save(mapper.map(details, OrderDetails.class));
+		}
+		
+		OrderDTO od=mapper.map(orderRepo.findById(o.getId()).orElse(null),OrderDTO.class);
+		double price=calculateTotalPrice(od);
+		od.setTotalAmount(price);
+		
+		Order or=mapper.map(od,Order.class);
+		
+		orderRepo.save(or);
+		
+		return order;
+	}
+    
+	
+	public OrderDetailsDTO createOrderDetails(CartItemDTO itemDTO ,long id, long oId) {
+		OrderDetailsDTO details=new OrderDetailsDTO();
+		
+		Crop crop=cropRepo.findById(itemDTO.getCrop_id()).orElseThrow(() -> new IllegalArgumentException("Invalid Crop ID: " + itemDTO.getCrop_id()));
+		
+		Farmer f=crop.getFarmer();
+		Buyer b=buyerRepo.findById(id).orElseThrow(() -> new IllegalArgumentException("Invalid Crop ID: " + itemDTO.getCrop_id()));
+	System.out.println(crop );
+	System.out.println();
+		details.setBuyer_id(id);
+		details.setCrop_id(itemDTO.getCrop_id());
+		details.setCrop_name(crop.getName());
+		details.setQuantity(crop.getQuantity());
+		details.setFarmer_name(f.getFullName());
+		details.setBuyer_name(b.getFullName());
+		details.setTotalPrice(itemDTO.getTotalPrice());
+		OrderDetails odetail=mapper.map(details,OrderDetails.class);
+		odetail.setCrop(crop);
+		odetail.setBuyer(b);
+		odetail.setFarmer(f);
+		odetail.setOrder(orderRepo.findById(oId).orElse(null));
+	orderDetailsRepo.save(odetail);
+		return mapper.map(odetail, OrderDetailsDTO.class);
+	}
+	
+	public double calculateTotalPrice(OrderDTO order) {
+        double total = 0.0;
+        for (OrderDetailsDTO detail : order.getOrderDetailsDTO()) {
+            total += detail.getTotalPrice();
+        }
+        return total;
+    }
+}

@@ -1,0 +1,180 @@
+
+/* AboutUs.css */
+/* .about-us {
+  font-family: Arial, sans-serif;
+}
+
+.hero-section {
+  background-image: url("C:\Users\rahul\OneDrive\Desktop\CDAC\A\AB1\cdacproject\public\Images\farm-tools.jpg"); /* Replace with your hero image URL 
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.hero-section p {
+  font-size: 1.5rem;
+}
+
+.content-section {
+  padding: 20px;
+}
+
+.content-item {
+  display: flex;
+  margin-bottom: 20px;
+  align-items: flex-start;
+}
+
+.content-item h2 {
+  font-size: 2rem;
+  margin-right: 15px;
+  color: #4CAF50; /* Green for organic theme 
+}
+
+.content-item p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* Footer 
+.footer {
+  background-color: #f5f5f5; /* Light gray background 
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.footer h3 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+  color: #4CAF50; /* Green for organic theme 
+}
+
+.footer p {
+  font-size: 1rem;
+  color: #555; /* Gray text 
+  margin: 10px 0;
+}
+
+.footer-images {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin: 15px 0;
+}
+
+.social-icon {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.social-icon:hover {
+  transform: scale(1.2); /* Slight zoom effect on hover 
+} */
+
+.hero-section {
+    /* background-image: url("C:\Users\rahul\OneDrive\Desktop\CDAC\A\AB\New folder\public\Images\farm-tools.jpg");  */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+  }
+  .about-us {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .hero-section {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .card-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin: 40px 0;
+  }
+  
+  .card {
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    width: 100%;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .card-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-content {
+    padding: 20px;
+  }
+  
+  .card-content h3 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #333;
+  
+  }
+  
+  .card-content p {
+    font-size: 1rem;
+    color: #666;
+    margin-top: 10px;
+  }
+  
+  .footer {
+    text-align: center;
+    margin-top: 130px;
+    height:10rem;
+  background-color: rgb(19, 106, 19);
+  }
+  
+  .footer-images {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+  }
+  
+  .footer .social-icon {
+    width: 30px;
+    height: 30px;
+  }
+  .social-icon:hover {
+    transform: scale(1.2); 
+  }
+  .footer h3 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    color: white;  
+  }
+  
+  #loginbtn{
+
+    background-color: blue;
+  }
+  

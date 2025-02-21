@@ -1,0 +1,97 @@
+.home{
+    margin-top: 90px;
+}/* Base styles for the BuyerFront layout */
+.buyer-front {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header styling */
+  header {
+    margin: 0;
+    padding: 1rem;
+    background-color: #4caf50; /* Example green theme */
+    color: white;
+    text-align: center;
+    font-size: 1.5rem; /* Default font size */
+    font-weight: bold;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  
+  /* Main content styling */
+  .main-content {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+  }
+  
+  /* Sidebar styling */
+  .sidebar {
+    width: 20%;
+    background-color: #f4f4f4;
+    padding: 1rem;
+    overflow-y: auto;
+  }
+  
+  /* CropList (main area) styling */
+  .crop-list {
+    flex: 1;
+    padding: 1rem;
+    overflow-y: auto;
+    background-color: #ffffff;
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 1024px) {
+    /* Adjust font sizes and layout for tablets */
+    header {
+      font-size: 1.25rem;
+      padding: 0.8rem;
+    }
+  
+    .sidebar {
+      width: 25%; /* Sidebar takes more space on smaller screens */
+    }
+  
+    .crop-list {
+      padding: 0.8rem;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    /* Adjust layout for mobile screens */
+    .main-content {
+      flex-direction: column;
+    }
+  
+    .sidebar {
+      width: 100%; /* Sidebar becomes full-width */
+      padding: 0.5rem;
+    }
+  
+    header {
+      font-size: 1rem; /* Smaller font size */
+      padding: 0.5rem;
+    }
+  
+    .crop-list {
+      padding: 0.5rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    /* Small mobile adjustments */
+    header {
+      font-size: 0.9rem;
+    }
+  
+    .sidebar {
+      display: none; /* Hide sidebar for small screens */
+    }
+  }
+  
